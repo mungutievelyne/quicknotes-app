@@ -104,6 +104,12 @@ button:hover {
   overflow-wrap: anywhere;
 }
 
+.note-card button {
+ 
+  margin-left: 15px;
+}
+
+
 /* 9. Category-specific left-border colours */
 .category-personal {
   border-left-color: #0d9488; /* Teal */
